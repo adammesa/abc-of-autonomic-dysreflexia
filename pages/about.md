@@ -1,9 +1,11 @@
 ---
 title: Info
-last-updated: Jan 25th, 2022
+last-updated: October 11, 2026
 ---
 This app uses information from our previously created online course ([ABCofAD.ca](https://www.abcofad.ca)) and the American Spinal Injury Association's clinical practice guidelines published in May 2021 by Krassioukov et. al.[^1] This app was developed by Dr. Krassioukov, other physiatrists in the field, and Dr. Krassioukov's lab.
 Published and maintained with the generous support of [Praxis Spinal Cord Institute](https://praxisinstitute.org/). 
+
+Read more [about the guidelines](/guidelines).
 #### Glossary of Abbreviations
 
 AD - Autonomic Dysreflexia
